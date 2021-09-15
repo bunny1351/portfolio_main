@@ -4,7 +4,6 @@ import logo1 from './images/github.png'
 import logo2 from './images/linkedin.png'
 import logo3 from './images/frontend mentor.png'
 
-
 function Home() {
     return (
         <div>
