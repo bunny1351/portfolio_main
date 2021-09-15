@@ -3,20 +3,9 @@ import './home.scss';
 import logo1 from './images/github.png'
 import logo2 from './images/linkedin.png'
 import logo3 from './images/frontend mentor.png'
-import down from './images/down.png'
 
 
 function Home() {
-
-    const Dscroll =() => {
-        window.scroll({
-            top: document.body.offsetHeight,
-            left: 0, 
-            behavior: 'smooth'
-        }
-        )
-    }
-
     return (
         <div>
         <div className="home">
