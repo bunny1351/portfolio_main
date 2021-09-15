@@ -1,0 +1,12 @@
+$baseFont: 'Share Tech Mono', monospace;
+$white: #fff;
+$lightBlue: #4CD2FD;
+$pink: #FB56C3;
+$blueContactForm: rgba(76, 210, 253, 0.5);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: $baseFont;
+}

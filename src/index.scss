@@ -1,0 +1,11 @@
+@import 'variables.scss';
+
+body{
+    background: url('./images/mainbg.jpg');
+    width: 100vw;
+    height: 100vh;
+    background-size: contain;
+    background-position: fixed;
+    background-repeat: repeat-y;
+    
+}

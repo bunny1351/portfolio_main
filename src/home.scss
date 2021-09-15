@@ -1,0 +1,50 @@
+@import './variables.scss';
+
+.home{
+    color: $white;
+    text-align: center;
+    font-size: 6vh;
+    width: 60vw;
+    position: absolute;
+    top: 25vh;
+    left: 20vw;
+p{
+   #name{
+       color: $lightBlue;
+    }
+
+    #dev{
+        color: $pink;
+    }
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+    width: 40vw;
+    margin-top: 5vw;
+    margin-left: 10vw;
+
+    img{
+    width: 5vw;
+    }
+}
+
+.scroll{
+    margin-top: 10vh;
+
+    p{
+        font-size: 4vh;
+    }
+
+    img{
+        height: 5vh;
+        opacity: 0.7;
+        margin-top: 1vh;
+        cursor: pointer;
+    }
+
+    img:hover{
+        opacity: 1;
+    }
+}
+}
