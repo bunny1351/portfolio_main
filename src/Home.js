@@ -4,7 +4,7 @@ import logo1 from './images/github.png'
 import logo2 from './images/linkedin.png'
 import logo3 from './images/frontend mentor.png'
 import down from './images/down.png'
-import Skills from './Skills';
+
 
 function Home() {
 
@@ -35,13 +35,7 @@ function Home() {
                     <img src={logo3} alt="Frontend Mentor" title="Frontend Mentor" />
                 </a>
             </div>
-            <div className="scroll">
-             <p>Scroll Down</p>
-            <img src={down} alt="scroll down" id="scroll" onClick={Dscroll} />
-            </div>
-           
         </div> 
-        <Skills />
         </div>
     )
 }

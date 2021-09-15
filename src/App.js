@@ -2,8 +2,10 @@ import React from 'react'
 import './app.scss'
 import Navbar from './Navbar';
 import Home from './Home';
+import Skills from './Skills';
 import Works from './Works';
 import Contact from './Contact';
+
 import {
   Switch,
   Route
@@ -15,6 +17,7 @@ function App() {
       <Navbar />
       <Switch>
         <Route exact path="/" component={Home} />  
+        <Route path="/skills" component={Skills} />
         <Route path="/works" component={Works} />
         <Route path="/contact" component={Contact} />
       </Switch> 

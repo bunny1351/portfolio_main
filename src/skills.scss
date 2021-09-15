@@ -1,10 +1,7 @@
 @import './variables.scss';
 
 .skills{
-    position: absolute;
-    top: 100vh;
-
-
+    margin-top: 5vh;
     p{
         color: $white;
         font-size: 6vh;
@@ -18,9 +15,16 @@
         justify-content: space-between;
         width: 90vw;
         margin: 5vh 4vw;
-    }
+    } 
+
+    #basics{
+            width: 15vw;
+        }
+
     img{
         width: 10vw;
+
+       
     }
 
     .line2{
@@ -32,7 +36,7 @@
         margin: 5vh 24vw;
     }
     img{
-        width: 10vw;
+        width: 8vw;
     }
 
     .line3{

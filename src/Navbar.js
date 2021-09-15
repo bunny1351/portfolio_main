@@ -14,6 +14,9 @@ function Navbar() {
         <li>
           <NavLink to="/"> Home </NavLink>
           </li>
+          <li>
+          <NavLink to="/skills"> My Skills </NavLink>
+          </li>
         <li>
           <NavLink to ="/works"> My Works </NavLink>
           </li>

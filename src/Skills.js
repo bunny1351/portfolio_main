@@ -16,7 +16,7 @@ function Skills(){
             <p>My Skills</p>
             <div className="line1">
             <a href="https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/" target="_blank" rel="noreferrer">
-                    <img src={logo1} alt="HTML CSS JS" title="HTML CSS JS" />
+                    <img src={logo1} alt="HTML CSS JS" title="HTML CSS JS" id="basics" />
                 </a>
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                     <img src={logo2} alt="React JS" title="React JS" />
