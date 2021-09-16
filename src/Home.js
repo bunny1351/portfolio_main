@@ -13,7 +13,7 @@ function Home() {
                 <br /> and I am
                 <br /> a <span id="dev">
                 <Typewriter 
-                 words={['Front End Developer']}
+                 words={['Front End Developer', 'Techie', 'Fast Learner']}
                  loop={0}
                  cursor
                  cursorStyle='|'
