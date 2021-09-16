@@ -3,6 +3,7 @@ import './home.scss';
 import logo1 from './images/github.png'
 import logo2 from './images/linkedin.png'
 import logo3 from './images/frontend mentor.png'
+import {Typewriter} from 'react-simple-typewriter'
 
 function Home() {
     return (
@@ -10,7 +11,17 @@ function Home() {
         <div className="home">
             <p>My Name is <span id="name">Bhupender Singh</span>
                 <br /> and I am
-                <br /> a <span id="dev">Front End Developer</span>
+                <br /> a <span id="dev">
+                <Typewriter 
+                 words={['Front End Developer']}
+                 loop={0}
+                 cursor
+                 cursorStyle='|'
+                 typeSpeed={70}
+                 deleteSpeed={50}
+                 delaySpeed={1000}
+                />
+                </span>
             </p>
             <div className="links">
                 <a href="https://github.com/bunny1351" target="_blank" rel="noreferrer">

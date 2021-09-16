@@ -19,10 +19,10 @@ function Skills(){
                     <img src={logo1} alt="HTML CSS JS" title="HTML CSS JS" id="basics" />
                 </a>
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                    <img src={logo2} alt="React JS" title="React JS" />
+                    <img src={logo2} alt="React JS" title="React JS" id="react"/>
                 </a>
                 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-                    <img src={logo3} alt="SASS" title="SASS" />
+                    <img src={logo3} alt="SASS" title="SASS" id="sass" />
                     </a>
                
             </div>

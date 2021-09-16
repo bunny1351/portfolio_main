@@ -15,18 +15,36 @@
         justify-content: space-between;
         width: 90vw;
         margin: 5vh 4vw;
-    } 
 
-    #basics{
+        #basics{
             width: 15vw;
+            transition: 1s ease;
         }
 
-    img{
-        width: 10vw;
+        #basics:hover{
+            width: 20vw;
+        }
 
-       
+    #react{
+        width: 10vw;
+        transition: 3s ease;
     }
 
+    #sass{
+        width: 10vw;
+        transition: 1s ease;
+    }
+
+    #sass:hover{
+        width: 13vw;
+    }
+
+    #react:hover{
+        transform: rotateZ(360deg);
+    }
+    } 
+
+    
     .line2{
 
         display: flex;
@@ -34,10 +52,19 @@
         justify-content: space-between;
         width: 50vw;
         margin: 5vh 24vw;
-    }
-    img{
+        
+        img{
         width: 8vw;
+        transition: 1s ease;
+
     }
+
+    img:hover{
+        width: 10vw;
+    }
+
+    }
+    
 
     .line3{
 
@@ -46,8 +73,15 @@
         justify-content: space-between;
         width: 90vw;
         margin: 5vh 4vw;
+        
+        img{
+        width: 9vw;
+        transition: 3s ease;
     }
-    img{
-        width: 10vw;
+
+    img:hover{
+        transform: rotateY(360deg);
     }
 }
+    }
+   
