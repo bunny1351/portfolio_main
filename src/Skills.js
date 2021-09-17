@@ -14,6 +14,7 @@ function Skills(){
     return(
         <div className="skills">
             <p>My Skills</p>
+            <div className="pics">
             <div className="line1">
             <a href="https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/" target="_blank" rel="noreferrer">
                     <img src={logo1} alt="HTML CSS JS" title="HTML CSS JS" id="basics" />
@@ -26,6 +27,7 @@ function Skills(){
                     </a>
                
             </div>
+            <div className="second">
             <div className="line2">
            
                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -44,7 +46,8 @@ function Skills(){
                     <img src={logo7} alt="C++" title="C++" />
                 </a>
             </div>
-
+            </div>
+</div>
         </div>
     )
 

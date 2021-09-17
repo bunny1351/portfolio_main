@@ -1,7 +1,7 @@
 @import 'variables.scss';
 
 .works{
-    
+    overflow: hidden;
     margin-top: 5vh;
 
     p{
@@ -26,6 +26,8 @@
         .info{
             p{
                 font-size: 5vh;
+                text-align: center;
+                width: 50vw;
 
                 span{
                     font-size: 3vh;
@@ -35,6 +37,68 @@
                     font-size: 3vh;
                     color: $white;
                     text-decoration: underline;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px){
+    .works{
+
+        p{
+            font-size: 5vh;           
+        }
+    
+        .data{
+            margin: 5vh 10vw;
+
+            img{
+                width: 13vw;
+                height: 8vh;
+                border-radius: 1vh;
+            }
+    
+            .info{
+                margin: 0 15vw;
+                p{
+                    font-size: 4vh;
+    
+                    span{
+                        font-size: 2.2vh;
+                    }
+    
+                    a{
+                        font-size: 2vh;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 425px)  {
+    .works{
+        .data{
+            img{
+                display: none;
+            }
+
+            .info{
+                p{
+                    font-size: 3.5vh;
+                    color: $pink;
+    
+                    span{
+                        font-size: 2vh;
+                        color: $white;
+                    }
+    
+                    a{
+                        font-size: 2vh;
+                        color: $white;
+                        text-decoration: underline;
+                    }
                 }
             }
         }

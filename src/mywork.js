@@ -7,7 +7,7 @@ const work = [
         id: 1,
         image : logo1,
         title : 'Cafe Central',
-        lang : 'HTML, SASS, JavaScript, React js',
+        lang : 'HTML, SASS, JS, React js',
         link : 'https://cafe-central.netlify.app/'
     },
     {

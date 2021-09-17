@@ -21,6 +21,9 @@ function App() {
         <Route exact path="/works" component={Works} />
         <Route exact path="/contact" component={Contact} />
       </Switch> 
+      <footer>
+        <span>&copy; Bhupender Singh</span>
+      </footer>
     </div>
   );
 }
