@@ -1,0 +1,53 @@
+[33mcommit 2e375cd56d636660a32841f11e3105fad1bc56d9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Bhupender Singh <bhupendersinghbhauriyal@gmail.com>
+Date:   Fri Sep 17 10:13:10 2021 +0530
+
+    mobile compatitbility v1.5
+
+[33mcommit de6aab03b8a3a3e2ace5a1e4878aa07582c01c77[m
+Author: Bhupender Singh <bhupendersinghbhauriyal@gmail.com>
+Date:   Thu Sep 16 22:34:40 2021 +0530
+
+    mobile adaptation 1.3.1
+
+[33mcommit 38bff180334d00b97557ac84a47b83c0296737c2[m
+Author: Bhupender Singh <bhupendersinghbhauriyal@gmail.com>
+Date:   Thu Sep 16 14:53:59 2021 +0530
+
+    Desktop look ready v1.4
+
+[33mcommit 101e149c79777140f325fafa07d692549c63577d[m
+Author: Bhupender Singh <bhupendersinghbhauriyal@gmail.com>
+Date:   Wed Sep 15 17:33:26 2021 +0530
+
+    v1.3 styles to new page
+
+[33mcommit 29e435fff1c67254484782f3c81ff56710f0a38c[m
+Author: Bhupender Singh <bhupendersinghbhauriyal@gmail.com>
+Date:   Wed Sep 15 16:29:34 2021 +0530
+
+    v1.2.1
+
+[33mcommit e758e188a387ee12abd80a264d724ca5b4cc4852[m
+Author: Bhupender Singh <bhupendersinghbhauriyal@gmail.com>
+Date:   Wed Sep 15 16:05:14 2021 +0530
+
+    Few improvisations v1.2
+
+[33mcommit d99dec583c8e9f3f4f27068c8fa42d85f4fb422a[m
+Author: Bhupender Singh <bhupendersinghbhauriyal@gmail.com>
+Date:   Wed Sep 15 15:59:07 2021 +0530
+
+    Few improvisations v1.1
+
+[33mcommit 9d0758b128fd959b411da18e4dfc58a734b3ce52[m
+Author: Bhupender Singh <bhupendersinghbhauriyal@gmail.com>
+Date:   Wed Sep 15 14:22:11 2021 +0530
+
+    Homepage completed
+
+[33mcommit 5745fa2ce42d454da46cc22e1d27c4ce74840d85[m
+Author: Bhupender Singh <bhupendersinghbhauriyal@gmail.com>
+Date:   Sun Sep 5 12:09:23 2021 +0530
+
+    Initialize project using Create React App

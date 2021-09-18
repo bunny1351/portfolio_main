@@ -15,14 +15,14 @@ const work = [
         image : logo2,
         title : 'Weather App',
         lang : 'HTML, SASS, JavaScript, React js, API',
-        link : 'https://weather.netlify.app/'
+        link : 'https://weather101-app.netlify.app/'
     },
     {
         id: 3,
         image : logo3,
-        title : 'Car Website',
-        lang : 'HTML, SASS, JS, React js, Bootstrap',
-        link : 'https://cafe-central.netlify.app/'
+        title : 'Car Zone Website',
+        lang : 'HTML, SASS, JS, React js',
+        link : 'https://car-zone.netlify.app/'
     }
 ];
 
